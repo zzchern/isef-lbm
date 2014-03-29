@@ -1,6 +1,7 @@
 isef-lbm
 ========
 
+<<<<<<< HEAD
 ## License
 
 isef-lbm - program for simulation of acoustic waves using LBM  written on C++
@@ -32,3 +33,16 @@ Ubuntu:
 
 'make'
 './LBM'
+=======
+implementation of lattice boltzmann method in field of acoustics
+
+#how-to#
+Install this packages:
+sudo apt-get install freeglut3 freeglut3-dev libsdl1.2-dev
+
+Compile sources:
+make
+
+Run program:
+./LBM
+>>>>>>> eea7a23cce1b65b427b4f12810f47609f0c25bcb
