@@ -1,7 +1,6 @@
 isef-lbm
 ========
 
-<<<<<<< HEAD
 ## License
 
 isef-lbm - program for simulation of acoustic waves using LBM  written on C++
@@ -45,4 +44,3 @@ make
 
 Run program:
 ./LBM
->>>>>>> eea7a23cce1b65b427b4f12810f47609f0c25bcb
