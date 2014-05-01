@@ -20,24 +20,12 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-## Requirements
-
-glut library
-SDL library
-
-Ubuntu:
-'sudo apt-get install freeglut3 freeglut3-dev libsdl1.2-dev'
-
-## How-to
-
-'make'
-'./LBM'
-=======
-implementation of lattice boltzmann method in field of acoustics
-
 #how-to#
 Install this packages:
 sudo apt-get install freeglut3 freeglut3-dev libsdl1.2-dev
+
+Clone repository:
+git clone https://github.com/viva-la-vida/isef-lbm
 
 Compile sources:
 make
